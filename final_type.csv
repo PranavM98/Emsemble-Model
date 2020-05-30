@@ -1,0 +1,1114 @@
+Branch,Gender,10th%,12th%,Sem_1,Sem_2,Sem_3,Sem_4,Sem_5,Sem_6,Aggregate,Admission_Entrance_Exam,Company,Tier,No_of_Offers,Company Type
+MECH,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ISE,Female,FCD,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+CSE,Male,FCD,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+ECE,Male,FCD,FCD,FC,SC,FC,FC,FC,SC,FC,COMED-K,accenture,3,1,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+CSE,Female,FCD,FCD,FC,FC,FCD,FC,FC,FC,FC,CET,accenture,3,1,MNC
+MECH,Female,FCD,FCD,FC,FC,FC,FC,SC,FC,FC,Management,accenture,3,1,MNC
+ECE,Female,FCD,FCD,FC,FC,FC,SC,FC,FC,FC,CET,accenture,3,1,MNC
+ISE,Female,FCD,FCD,FC,FC,FC,SC,SC,FC,FC,CET,accenture,3,1,MNC
+CSE,Male,FCD,FCD,SC,FC,SC,SC,SC,SC,SC,Management,accenture,3,1,MNC
+ECE,Female,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+CSE,Male,FC,FC,FC,FC,FC,FC,FC,FC,FC,Management,accenture,3,1,MNC
+ISE,Female,FC,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ECE,Male,FC,FC,FC,FC,FC,SC,SC,SC,SC,CET,accenture,3,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+CSE,Female,FC,FC,FC,FC,SC,FC,FC,SC,FC,Management,accenture,3,1,MNC
+CSE,Female,FC,FCD,FC,FCD,FC,FC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+CSE,Male,FCD,FCD,FC,FC,SC,SC,FC,SC,FC,CET,accenture,3,1,MNC
+ECE,Female,FC,FCD,FC,FCD,FC,FC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+ECE,Female,FC,FC,FC,FC,FC,FC,FC,SC,FC,COMED-K,accenture,3,1,MNC
+MECH,Female,FC,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+ISE,Female,FCD,FCD,FC,FC,FC,SC,FC,SC,FC,CET,accenture,3,1,MNC
+MECH,Male,FCD,FCD,SC,FC,FC,FC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+ISE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+MECH,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+CSE,Female,FC,FCD,FC,FC,SC,FC,FC,FC,FC,Management,accenture,3,1,MNC
+CSE,Female,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FCD,FCD,COMED-K,accenture,3,1,MNC
+ECE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ECE,Female,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,Management,accenture,3,1,MNC
+ECE,Female,FC,FCD,FC,SC,SC,SC,FC,SC,SC,Management,accenture,3,1,MNC
+MECH,Male,FCD,FC,FC,FC,SC,FC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+CSE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+CSE,Female,FC,FC,FC,FC,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ISE,Female,FCD,FCD,FC,FC,SC,FC,SC,FC,FC,CET,accenture,3,1,MNC
+MECH,Male,FCD,FCD,FC,FC,FC,SC,FC,FC,FC,CET,accenture,3,1,MNC
+CSE,Male,FC,FC,FC,FC,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ECE,Female,FC,FCD,FC,FC,FC,FC,FC,SC,FC,CET,accenture,3,1,MNC
+ECE,Female,FC,FC,FC,FC,FC,SC,FC,FC,FC,Management,accenture,3,1,MNC
+MECH,Female,FCD,FCD,FC,FCD,FC,FCD,FC,FC,FC,COMED-K,accenture,3,1,MNC
+ISE,Female,FC,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+MECH,Male,FCD,FCD,FC,FC,FC,FC,SC,SC,FC,COMED-K,accenture,3,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FCD,FC,FC,FC,FCD,CET,accenture,3,1,MNC
+CSE,Female,FCD,FCD,FC,FCD,FC,FC,FC,FCD,FC,COMED-K,accenture,3,1,MNC
+CSE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ECE,Female,FC,FC,FC,FC,FC,FC,FC,SC,FC,Management,accenture,3,1,MNC
+MECH,Male,FC,FCD,FC,FC,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ISE,Female,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ISE,Female,FC,FCD,SC,SC,FC,FC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+MECH,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+MECH,Male,FC,FC,SC,FC,FC,SC,FC,FC,FC,CET,accenture,3,1,MNC
+ISE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+CSE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+MECH,Male,FC,FC,FC,FC,FC,FC,FC,SC,FC,COMED-K,accenture,3,1,MNC
+CSE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ISE,Female,FCD,FC,FC,FC,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+CSE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ISE,Female,FCD,FCD,FC,FC,FC,FC,FC,SC,FC,CET,accenture,3,1,MNC
+ISE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ECE,Female,FCD,FCD,FC,FC,FC,SC,FC,SC,FC,CET,accenture,3,1,MNC
+ISE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,Management,accenture,3,1,MNC
+CSE,Female,FC,FC,FC,FC,SC,SC,FC,FC,FC,Management,accenture,3,1,MNC
+CSE,Female,FCD,FC,FC,FC,SC,SC,SC,FC,SC,Management,accenture,3,1,MNC
+CSE,Male,FC,FC,FC,FC,SC,SC,FC,FC,FC,Management,accenture,3,1,MNC
+ISE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ISE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+CSE,Male,FC,FC,FC,FCD,FC,FC,FC,FC,FC,COMED-K,aci worldwide solutions pvt. ltd.,2,1,MNC
+CSE,Female,FC,FCD,FCD,FCD,FC,FCD,FC,FC,FC,CET,adobe,1,2,MNC
+CSE,Female,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,COMED-K,adobe,1,2,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FC,FCD,FC,FC,FC,COMED-K,akamai,1,2,MNC
+ISE,Male,FC,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,akamai,1,2,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,amazon,1,2,MNC
+ECE,Male,FCD,FCD,FC,FC,FC,FC,FC,SC,FC,CET,aryaka,2,1,Private
+ECE,Male,FC,FCD,FC,FC,FC,FC,FC,SC,FC,CET,aryaka,2,2,Private
+ECE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,aryaka,2,2,Private
+ECE,Male,FC,FCD,FC,FC,FC,SC,SC,SC,FC,CET,atos,3,1,MNC
+CSE,Female,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,atos,3,1,MNC
+ISE,Female,FC,FCD,FC,FC,FC,FC,FC,FC,FC,CET,atos,3,1,MNC
+CSE,Male,FCD,FCD,FC,FC,SC,FC,FC,FC,FC,CET,atos,3,1,MNC
+ECE,Female,FC,FCD,FCD,FCD,FCD,FC,FC,FC,FCD,CET,atos,3,1,MNC
+ECE,Female,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,atos,3,2,MNC
+CSE,Male,FC,FC,FC,FC,SC,FC,FC,FC,FC,COMED-K,betsol,2,1,Private
+CSE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,betsol,2,2,Private
+CSE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,ca technologies,1,1,MNC
+ECE,Male,FCD,FCD,FC,FC,FC,SC,FC,SC,FC,CET,capgemini,3,1,MNC
+ECE,Male,FC,FCD,FCD,FC,FC,FC,SC,SC,FC,COMED-K,capgemini,3,1,MNC
+ISE,Male,FC,FCD,FC,FC,FC,SC,SC,FC,FC,CET,capgemini,3,1,MNC
+CSE,Male,FC,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,capillary,1,2,Private
+CSE,Male,FCD,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,capillary,1,2,Private
+CSE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,capillary,1,2,Private
+MECH,Male,FC,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+MECH,Male,FC,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+ECE,Male,FC,FC,FC,FC,FC,SC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+ISE,Female,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FCD,FC,FC,FC,FCD,CET,cognizant technology solutions,3,1,MNC
+MECH,Male,FCD,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+ISE,Male,FC,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+CSE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+ECE,Female,FC,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+MECH,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+CSE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+ECE,Male,FC,FCD,FC,FCD,FC,FC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+ECE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+ISE,Male,FC,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+ECE,Female,FC,FCD,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+ECE,Male,FCD,FCD,FC,FC,FC,SC,FCD,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+CSE,Male,FC,FCD,FC,FCD,FC,FC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+ISE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+MECH,Male,FC,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+CSE,Female,FCD,FC,FC,FC,FC,FC,FC,FC,FC,Management,cognizant technology solutions,3,1,MNC
+CSE,Male,FCD,FC,FC,FC,FC,SC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+MECH,Male,FC,FC,FC,FC,FC,FC,SC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+MECH,Female,FC,FCD,FCD,FC,FC,FC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+CSE,Male,FC,FCD,FC,FC,SC,FC,FC,FC,FC,Management,cognizant technology solutions,3,1,MNC
+ECE,Female,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+ISE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FCD,FC,FC,FC,FCD,CET,cognizant technology solutions,3,1,MNC
+ECE,Female,FC,FC,FC,FC,FC,FC,FC,SC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+CSE,Male,FC,FC,FC,FCD,FC,FC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+MECH,Male,FC,FCD,FC,FC,FC,FC,SC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+CSE,Female,FC,FCD,FC,FCD,FC,FC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+ECE,Male,FCD,FC,FC,FC,FC,SC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+CSE,Male,FCD,FCD,FC,FC,FC,SC,SC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+CSE,Male,FC,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+ECE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+ISE,Male,FC,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+MECH,Male,FC,FCD,FC,FC,SC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+ISE,Male,FCD,FC,FC,FC,FC,FC,FC,FC,FC,CET,csg solutions india pvt ltd,2,1,Private
+ISE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,csg solutions india pvt ltd,2,2,Private
+CSE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,csg solutions india pvt ltd,2,2,Private
+CSE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,dansk it,2,2,MNC
+ECE,Female,FC,FCD,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,deloitte,2,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,deloitte,2,2,MNC
+CSE,Female,FC,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,deloitte,2,2,MNC
+ISE,Male,FC,FCD,FC,FCD,FC,FC,FC,FC,FC,COMED-K,deloitte,2,2,MNC
+ISE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,deloitte,2,2,MNC
+ISE,Male,FCD,FC,FC,FC,FC,FC,SC,FC,FC,CET,deloitte,2,2,MNC
+ISE,Female,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,COMED-K,deloitte,2,2,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FC,FCD,FCD,FC,FCD,CET,deloitte,2,3,MNC
+CSE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,deloitte,2,2,MNC
+CSE,Female,FC,FCD,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,deloitte,2,2,MNC
+CSE,Female,FC,FCD,FC,FCD,FC,FCD,FC,FC,FC,COMED-K,deloitte,2,2,MNC
+ISE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,deloitte,2,3,MNC
+ECE,Male,FC,FC,FCD,FCD,FC,FC,FC,SC,FC,CET,epsilon technologies,2,1,MNC
+CSE,Female,FC,FCD,FC,FCD,FC,FC,FC,FC,FC,COMED-K,epsilon technologies,2,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,epsilon technologies,2,1,MNC
+CSE,Male,FC,FC,FC,FC,FC,FC,FC,FC,FC,Management,epsilon technologies,2,1,MNC
+ISE,Male,FC,FCD,FC,FC,SC,FC,FC,FC,FC,CET,epsilon technologies,2,1,MNC
+CSE,Male,FC,FCD,FC,FCD,FC,FC,FC,FC,FC,Management,epsilon technologies,2,1,MNC
+CSE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,epsilon technologies,2,1,MNC
+CSE,Female,FC,FCD,FC,FC,SC,SC,FC,FC,FC,Management,epsilon technologies,2,2,MNC
+ECE,Male,FCD,FCD,FCD,FC,SC,SC,FC,FC,FC,CET,epsilon technologies,2,2,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,epsilon technologies,2,2,MNC
+CSE,Male,FC,FCD,FC,FC,FC,SC,FC,FC,FC,CET,ericsson,3,1,MNC
+ECE,Male,FCD,FCD,FC,FC,FC,SC,FC,SC,FC,CET,ericsson,3,1,MNC
+ISE,Male,FC,FC,FC,FC,FC,FC,SC,FC,FC,COMED-K,ericsson,3,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FC,FC,FCD,CET,ericsson,3,1,MNC
+ECE,Male,FCD,FC,FC,FC,SC,FC,SC,SC,FC,CET,ericsson,3,1,MNC
+ECE,Female,FCD,FC,FC,FC,SC,SC,FC,FC,FC,CET,ericsson,3,1,MNC
+CSE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,ericsson,3,1,MNC
+ECE,Male,FC,FCD,FC,FC,SC,SC,FC,FC,FC,CET,ericsson,3,1,MNC
+ECE,Male,FCD,FCD,FC,FC,FC,SC,SC,SC,FC,COMED-K,ericsson,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,ericsson,3,1,MNC
+CSE,Male,FC,FC,FC,FC,SC,SC,SC,SC,SC,COMED-K,ericsson,3,1,MNC
+ECE,Male,FC,FCD,FC,FC,FC,SC,FC,SC,FC,COMED-K,ericsson,3,1,MNC
+ECE,Male,FC,FC,FCD,FCD,FC,FC,FC,SC,FC,COMED-K,ericsson,3,1,MNC
+ECE,Male,FC,FCD,FC,FC,FC,SC,FC,SC,FC,CET,ericsson,3,1,MNC
+ECE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,ericsson,3,1,MNC
+ECE,Male,FC,FC,FC,FC,SC,FC,FC,FC,FC,COMED-K,ericsson,3,1,MNC
+ECE,Female,FC,FCD,FC,FCD,FC,FC,FC,FC,FC,COMED-K,ericsson,3,1,MNC
+ISE,Male,FC,FC,FC,FC,SC,SC,FC,FC,FC,COMED-K,ericsson,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FC,FCD,FC,FC,FC,FC,CET,ericsson,3,1,MNC
+ECE,Female,FCD,FC,FC,FC,SC,SC,FC,SC,FC,COMED-K,ericsson,3,1,MNC
+CSE,Female,FC,FCD,FC,FC,FC,FC,FC,FC,FC,Management,ericsson,3,1,MNC
+ISE,Female,FCD,FC,SC,FC,SC,SC,FC,FC,FC,CET,ericsson,3,1,MNC
+ECE,Male,FCD,FC,SC,SC,FC,SC,SC,SC,SC,CET,ericsson,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FC,FC,FC,FC,SC,FC,Management,ericsson,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,ericsson,3,2,MNC
+ECE,Male,FCD,FCD,FC,FC,FC,FC,FC,SC,FC,CET,ericsson,3,2,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,ericsson,3,2,MNC
+CSE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,enrich,3,2,Private
+CSE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,enrich,3,2,Private
+CSE,Female,FC,FCD,FC,FC,FC,FC,FC,FC,FC,Management,ge,1,1,MNC
+CSE,Male,FC,FC,FC,FC,SC,SC,SC,SC,SC,Management,ge,1,1,MNC
+CSE,Female,FCD,FC,FC,FC,FC,FC,FC,FC,FC,Management,ge,1,2,MNC
+CSE,Female,FC,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,ge,1,2,MNC
+ISE,Female,FC,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,ge,1,2,MNC
+CSE,Male,FC,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,ge,1,2,MNC
+CSE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,COMED-K,ge,1,1,MNC
+CSE,Male,FC,FCD,FC,FC,FC,FC,FC,FC,FC,CET,ge,1,1,MNC
+CSE,Male,FC,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,ge,1,1,MNC
+CSE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,globallogic,2,1,Private
+ISE,Male,FC,FCD,FC,FC,SC,FC,SC,SC,FC,CET,globallogic,2,1,Private
+CSE,Female,FCD,FCD,FCD,FCD,FC,FCD,FCD,FC,FCD,CET,inksedge,2,2,Private
+CSE,Male,FCD,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,jda software pvt. ltd,2,2,Private
+CSE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,jda software pvt. ltd,2,1,Private
+CSE,Female,FC,FCD,FCD,FCD,FCD,FC,FC,FC,FCD,CET,oracle,1,2,MNC
+CSE,Male,FCD,FC,FC,FCD,FC,FC,FC,FC,FC,Management,oracle,1,2,MNC
+ISE,Female,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,oracle,1,2,MNC
+ECE,Male,FC,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,kpmg,2,1,Partnership
+ISE,Female,FC,FC,FC,FC,FC,FC,FC,FC,FC,Management,kpmg,2,1,Partnership
+ECE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,kpmg,2,1,Partnership
+CSE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,kpmg,2,1,Partnership
+ECE,Female,FC,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,kpmg,2,2,Partnership
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,SC,FC,CET,kpmg,2,2,Partnership
+CSE,Male,FC,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,l&t infotech,3,1,MNC
+ISE,Male,FCD,FC,FC,FC,SC,SC,FC,SC,FC,CET,l&t infotech,3,1,MNC
+ECE,Male,FCD,FCD,FC,FC,FC,SC,FC,SC,FC,CET,l&t infotech,3,1,MNC
+CSE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,l&t infotech,3,1,MNC
+ECE,Female,FC,FCD,FC,FC,FC,SC,FC,FC,FC,COMED-K,l&t infotech,3,1,MNC
+ECE,Male,FC,FCD,FC,FC,FC,SC,FC,FC,FC,COMED-K,l&t infotech,3,1,MNC
+ECE,Female,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,CET,l&t infotech,3,1,MNC
+ISE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,l&t infotech,3,1,MNC
+ISE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,l&t infotech,3,1,MNC
+CSE,Male,FC,FCD,FCD,FC,SC,FC,SC,SC,FC,CET,l&t infotech,3,1,MNC
+ISE,Male,FC,FCD,SC,FC,SC,SC,FC,FC,SC,COMED-K,l&t infotech,3,1,MNC
+CSE,Male,FCD,FCD,FC,FC,SC,SC,FC,FC,FC,CET,l&t infotech,3,1,MNC
+CSE,Male,FCD,FCD,FC,FC,SC,FC,FC,FC,FC,CET,l&t infotech,3,1,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,l&t technology services,3,1,MNC
+CSE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,mahindra comviva,2,1,MNC
+CSE,Male,FC,FCD,FC,FCD,FC,FC,FC,FC,FC,COMED-K,mahindra comviva,2,1,MNC
+ISE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,mahindra comviva,2,2,MNC
+CSE,Male,FC,FCD,FC,FC,SC,FC,FC,FC,FC,COMED-K,mahindra comviva,2,2,MNC
+ISE,Female,FCD,FC,FC,FC,SC,FC,SC,FC,FC,CET,manipal global education services private limited,2,1,Private
+ECE,Female,FC,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,media tek,1,2,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,COMED-K,media tek,1,2,MNC
+ECE,Male,FC,FCD,FC,FCD,FCD,FCD,FC,FC,FCD,Management,media tek,1,2,MNC
+CSE,Female,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,microchip,2,2,Private
+MECH,Male,FC,FC,FC,FC,FC,SC,FC,SC,FC,COMED-K,musigma,3,1,Private
+ISE,Female,FC,FCD,FCD,FC,FC,FC,FC,FC,FC,CET,musigma,3,1,Private
+CSE,Male,FC,FCD,FC,FC,FC,SC,FC,SC,FC,COMED-K,musigma,3,1,Private
+MECH,Male,FC,FCD,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,musigma,3,1,Private
+ISE,Male,FCD,FC,FC,FC,FC,SC,FC,FC,FC,COMED-K,musigma,3,1,Private
+MECH,Male,FCD,FC,FC,FC,FC,FC,SC,FC,FC,CET,musigma,3,1,Private
+CSE,Male,FC,FCD,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,ola,1,2,Private
+ISE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,oracle,1,1,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FCD,FC,FC,FC,FC,COMED-K,oracle,1,2,MNC
+MECH,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,otis elevator company (i) ltd,3,1,Private
+CSE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,perfios software solutions pvt. ltd.,2,1,Private
+CSE,Female,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,pwc,2,1,MNC
+CSE,Male,FC,FCD,FCD,FCD,FC,FCD,FCD,FCD,FCD,Management,pwc,2,2,MNC
+MECH,Male,FC,FC,FC,FC,FC,FC,FC,FC,FC,CET,quest global engineering pvt. ltd.,3,1,Private
+MECH,Male,FCD,FCD,FCD,FCD,FC,FC,FCD,FC,FCD,CET,quest global engineering pvt. ltd.,3,1,Private
+MECH,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,quest global engineering pvt. ltd.,3,1,Private
+MECH,Male,FCD,FC,FC,FC,FC,FC,FC,FC,FC,CET,quest global engineering pvt. ltd.,3,1,Private
+MECH,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,quest global engineering pvt. ltd.,3,1,Private
+MECH,Male,FC,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,quest global engineering pvt. ltd.,3,1,Private
+MECH,Male,FC,FCD,FC,FCD,FC,FC,FC,FC,FC,COMED-K,quest global engineering pvt. ltd.,3,1,Private
+CSE,Male,FC,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,robert bosch,2,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,robert bosch,2,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,robert bosch,2,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FC,FCD,CET,robert bosch,2,1,MNC
+CSE,Female,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,robert bosch,2,1,MNC
+CSE,Male,FC,FC,FC,FCD,FC,FC,FC,FC,FC,COMED-K,robert bosch,2,1,MNC
+CSE,Female,FC,FCD,FCD,FC,FC,FC,FC,FC,FC,CET,robert bosch,2,1,MNC
+ISE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,robert bosch,2,1,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FC,FCD,FC,FC,FCD,CET,robert bosch,2,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FCD,FC,FC,FC,FCD,CET,robert bosch,2,1,MNC
+ISE,Female,FC,FCD,FC,FC,FC,FC,FC,FC,FC,CET,robert bosch,2,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FC,FCD,FC,FC,FCD,CET,robert bosch,2,2,MNC
+CSE,Male,FC,FCD,FCD,FCD,FC,FC,FC,FC,FC,Management,sap labs,1,1,Private 
+CSE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,sap labs,1,1,Private 
+ISE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,sap labs ,1,1,MNC
+ISE,Male,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,CET,sap labs ,1,2,MNC
+CSE,Male,FC,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,sapient,2,1,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,sapient,2,1,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,sapient,2,1,MNC
+CSE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,Management,sapient,2,2,MNC
+CSE,Female,FC,FC,FC,FCD,FC,FC,FC,FC,FC,COMED-K,senzopt,3,2,Private 
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,epsilon technologies,2,2,MNC
+CSE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,shell,1,1,MNC
+CSE,Female,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,CET,shell,1,2,MNC
+ISE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,sling media,1,2,MNC
+CSE,Male,FC,FCD,FC,FCD,FC,FC,FC,FC,FC,COMED-K,sling media,1,3,MNC
+ECE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,COMED-K,societe generale,1,2,MNC
+ISE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,l&t technology services ltd,2,1,MNC
+CSE,Female,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,l&t technology services ltd,2,2,MNC
+CSE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,COMED-K,sony,2,1,MNC
+CSE,Male,FC,FC,FC,FCD,FC,FC,FC,FC,FC,COMED-K,sony,2,2,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,sony,2,2,MNC
+ISE,Male,FC,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,sprinklr,1,1,Private
+CSE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,sprinklr,1,2,Private
+CSE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,COMED-K,sprinklr,1,2,Private
+CSE,Male,FC,FC,FC,FC,FC,SC,FC,SC,FC,Management,tally solutions,2,1,Private
+CSE,Male,FCD,FC,FC,FC,SC,SC,SC,FC,FC,COMED-K,tally solutions,2,2,Private
+ECE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,tejas networks,2,2,MNC
+ISE,Female,FCD,FCD,FCD,FCD,FC,FCD,FC,FC,FC,CET,vm ware,1,2,MNC
+CSE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,volvo,3,1,MNC
+ISE,Male,FC,FC,FC,FC,FC,FC,FC,FC,FC,Management,volvo,3,1,MNC
+CSE,Male,FC,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,l&t infotech,3,2,MNC
+ISE,Female,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,CET,sapient,2,2,MNC
+ECE,Male,FC,FCD,FC,FC,FC,FC,FC,FC,FC,Management,wafer space,2,1,Private 
+ECE,Female,FCD,FCD,FCD,FCD,FC,FCD,FC,FC,FCD,CET,wafer space,2,1,Private 
+MECH,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,weir,3,2,MNC
+CSE,Male,FCD,FCD,FC,FC,FC,FC,SC,FC,FC,CET,wns global services (p) ltd,3,1,MNC
+CSE,Female,FCD,FC,SC,FC,SC,FC,FC,FC,FC,Management,wns global services (p) ltd,3,1,MNC
+ISE,Female,FC,FCD,SC,FC,FC,SC,SC,FC,FC,CET,wns global services (p) ltd,3,1,MNC
+CSE,Male,FC,FCD,FCD,FC,FC,FC,FC,FC,FC,COMED-K,zopsmart,1,1,Private 
+CSE,Male,FC,FCD,FC,FC,FC,FC,FC,FC,FC,CET,zopsmart,1,1,Private 
+ECE,Male,FC,FC,FC,FC,FC,FC,SC,FC,FC,Management,"hcl technologies ltd.,",3,1,MNC
+ISE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,wipro,3,1,MNC
+ECE,Male,FCD,FC,FCD,FC,FC,FC,SC,FC,FC,CET,cognizant technology solutions,2,1,MNC
+ECE,Male,FCD,FC,FCD,FC,FC,FC,SC,FC,FC,CET,ericsson,2,1,MNC
+ISE,Male,FCD,FC,FC,FC,SC,SC,SC,FC,SC,COMED-K,senzopt,3,1,Private 
+ISE,Male,FC,FC,FC,FC,SC,FC,SC,SC,FC,COMED-K,senzopt,3,1,Private 
+ISE,Male,FC,FC,FC,FC,SC,SC,SC,FC,FC,CET,wipro,3,1,MNC
+CSE,Male,FCD,FCD,FC,FC,FC,FC,SC,FC,FC,CET,wipro,3,1,MNC
+ISE,Male,FC,FC,FC,FC,SC,SC,SC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+CSE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,COMED-K,shell,1,1,MNC
+ECE,Female,FCD,FC,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,wipro,3,1,MNC
+ISE,Female,FCD,FC,FC,FC,FC,FC,SC,FC,FC,COMED-K,icreate software,3,1,Private
+CSE,Male,FCD,FCD,FC,FC,SC,FC,SC,FC,FC,CET,amazon,1,1,MNC
+ECE,Male,FCD,FCD,FC,FC,FC,SC,FC,FC,FC,CET,wipro,3,1,MNC
+ISE,Male,FC,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+ECE,Male,FCD,FC,FC,FC,SC,SC,SC,SC,FC,Management,"hcl technologies ltd.,",3,1,MNC
+ECE,Male,FC,FC,FC,FC,SC,SC,SC,SC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+CSE,Female,FCD,FC,FCD,FCD,FCD,FCD,FC,FC,FCD,Management,cognizant technology solutions,3,1,MNC
+CSE,Female,FCD,FC,FCD,FCD,FC,FCD,FC,FCD,FC,COMED-K,cognizant technology solutions,3,1,MNC
+ECE,Male,FC,SC,FC,FCD,FC,FC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FC,FCD,FC,FC,FCD,CET,dell,2,1,MNC
+ECE,Male,FCD,FCD,FC,FCD,FC,FC,SC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+CSE,Male,FCD,FC,FC,FC,SC,FC,SC,SC,FC,Management,wipro,3,1,MNC
+ISE,Female,FCD,FC,FC,FCD,FC,FC,FC,FC,FC,CET,oracle ,1,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+ISE,Female,FCD,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+ECE,Male,FCD,FCD,FC,FC,FC,SC,SC,SC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+CSE,Female,FC,FC,FC,FC,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+CSE,Male,FC,FC,FC,FC,SC,SC,SC,SC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+ISE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,oracle,1,1,MNC
+CSE,Male,FCD,FC,FC,FC,SC,FC,FC,FC,FC,COMED-K,wipro,3,1,MNC
+ECE,Male,FC,FC,FC,FC,FC,SC,FC,FC,FC,Management,cognizant technology solutions,3,1,MNC
+ISE,Male,FCD,FC,FC,FC,SC,FC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+CSE,Female,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,mu sigma,3,1,Private
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,SC,SC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+ISE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,capgemini,3,1,MNC
+ISE,Female,FCD,FC,FCD,FC,FC,FC,FC,FC,FC,COMED-K,wipro,3,1,MNC
+CSE,Male,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+CSE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,"hcl technologies ltd.,",3,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,"hcl technologies ltd.,",3,1,MNC
+CSE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,capgemini,3,1,MNC
+ISE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,"hcl technologies ltd.,",3,1,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FC,FCD,FC,FC,FC,CET,oracle,1,1,MNC
+CSE,Male,FC,FCD,FCD,FCD,FC,FCD,FC,FC,FCD,CET,cognizant technology solutions,3,1,MNC
+ECE,Female,FCD,FCD,FCD,FC,FCD,FCD,FC,FC,FC,CET,"hcl technologies ltd.,",3,1,MNC
+ISE,Male,FC,FC,FC,FC,FC,FC,FC,FC,FC,CET,sap labs,1,1,Private 
+ISE,Male,FC,FC,SC,SC,FC,FC,SC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+CSE,Female,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,CET,oracle,1,1,MNC
+ECE,Female,FC,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+ISE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,"hcl technologies ltd.,",3,1,MNC
+ISE,Female,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,siemens,2,1,MNC
+ISE,Female,FC,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+ISE,Male,FC,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+CSE,Male,FCD,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,wipro,3,1,MNC
+ECE,Male,FCD,FC,FC,FC,SC,SC,SC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+CSE,Male,FC,FC,FCD,FC,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+CSE,Male,FC,FC,FC,FC,SC,FC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+CSE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+CSE,Male,FCD,FCD,FC,FC,FC,SC,SC,FC,FC,CET,capgemini,3,1,MNC
+ISE,Female,FCD,FCD,FC,FCD,FC,FCD,FC,FC,FC,CET,wipro,3,1,MNC
+CSE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,COMED-K,ibm,3,1,MNC
+ISE,Male,FCD,FC,FC,FC,SC,SC,SC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+CSE,Male,FCD,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,wipro,3,1,MNC
+CSE,Female,FCD,FCD,FC,FCD,FC,FC,FC,FCD,FC,CET,cognizant technology solutions,3,1,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FC,FCD,FC,FC,FCD,CET,cognizant technology solutions,3,1,MNC
+CSE,Female,FCD,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+CSE,Male,FCD,FCD,FCD,FC,SC,SC,SC,FC,FC,CET,hashdien,2,1,MNC
+ECE,Female,FCD,FCD,FCD,FC,FCD,FCD,SC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+CSE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+ECE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+ECE,Male,FC,FC,FC,FC,FC,FC,SC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+ISE,Male,FCD,FC,FC,FC,FC,FC,FC,FC,FC,CET,thought works,2,1,Private 
+CSE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,wipro,3,1,MNC
+ISE,Female,FCD,FC,FC,FC,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+ISE,Female,FCD,FCD,FC,FC,FC,FCD,FC,FC,FC,CET,oracle,1,1,MNC
+ECE,Male,FCD,FC,FCD,FCD,FC,FC,FC,FC,FC,CET,"hcl technologies ltd.,",3,1,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,atimi software,1,1,Private
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,"hcl technologies ltd.,",3,1,MNC
+CSE,Male,FCD,FC,FCD,FCD,FCD,FCD,FC,FC,FCD,COMED-K,cisco,1,1,MNC
+ISE,Male,FCD,FC,FC,FC,FC,FC,FC,FC,FC,CET,nvidia,2,1,MNC
+CSE,Male,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,CET,sapient ,2,1,MNC
+CSE,Female,FCD,FC,FC,FC,FC,FC,FC,FC,FC,Management,cognizant technology solutions,3,1,MNC
+ISE,Male,FC,FC,FC,FCD,FC,FC,FC,FC,FC,CET,neev technologies,3,1,Private
+ISE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,neev technologies,3,1,Private
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,wipro,3,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,"hcl technologies ltd.,",3,1,MNC
+ISE,Female,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+CSE,Male,FCD,FC,FC,FC,SC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+ISE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,"hcl technologies ltd.,",3,1,MNC
+ISE,Male,FCD,FC,FC,FCD,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+CSE,Male,FCD,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,sapient,2,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FC,FC,SC,FC,FC,COMED-K,"hcl technologies ltd.,",3,1,MNC
+ISE,Male,FC,FC,FC,FC,SC,SC,SC,FC,SC,CET,key note (aayuja),3,1,Private
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,fidelity investments,2,1,Private
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,"hcl technologies ltd.,",2,1,MNC
+ECE,Female,FCD,FC,FCD,FC,FC,FC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+ECE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,wipro,3,1,MNC
+CSE,Male,FC,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,oracle,1,2,MNC
+ISE,Female,FCD,FC,FCD,FCD,FC,FCD,FC,FC,FC,COMED-K,hahsedin,2,1,MNC
+ECE,Male,FCD,FC,FC,FC,FC,FC,FC,FC,FC,CET,"hcl technologies ltd.,",3,1,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,thought works,2,1,Private 
+ECE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+ISE,Female,FC,FC,FC,FCD,FC,FC,FC,FC,FC,COMED-K,capgemini,3,1,MNC
+ISE,Female,FCD,FC,FC,FCD,FC,FCD,FC,FCD,FC,COMED-K,cognizant technology solutions,3,1,MNC
+CSE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,"hcl technologies ltd.,",3,1,MNC
+ECE,Male,FCD,FCD,FC,FCD,FC,FCD,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,wipro,3,1,MNC
+ISE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FC,FC,FCD,CET,oracle,1,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FCD,FCD,FC,FC,FCD,CET,cognizant technology solutions,3,1,MNC
+ECE,Female,FCD,FC,FC,FC,SC,FC,SC,SC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+CSE,Female,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,COMED-K,"hcl technologies ltd.,",3,1,MNC
+ECE,Female,FCD,FCD,FC,FC,FC,FC,SC,FC,FC,COMED-K,capgemini,3,1,MNC
+ISE,Female,FCD,FC,FC,FC,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+ISE,Male,FCD,FC,FC,FC,FC,FC,FC,FC,FC,CET,"hcl technologies ltd.,",3,1,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FC,FCD,FC,FC,FC,CET,cisco,1,1,MNC
+ISE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,vm ware,1,1,MNC
+CSE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,tata elxsi,3,1,MNC
+ECE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,"hcl technologies ltd.,",3,1,MNC
+CSE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,sling media,2,1,MNC
+ECE,Female,FCD,FCD,FC,FC,SC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FC,FCD,FC,FC,FCD,CET,citrix,1,1,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FC,FCD,FC,FC,FCD,CET,cognizant technology solutions,3,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FC,FC,FCD,CET,cognizant technology solutions,3,1,MNC
+ECE,Female,FCD,FC,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+CSE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+ISE,Female,FCD,FCD,FCD,FCD,FC,FCD,FC,FC,FC,CET,wipro,2,1,MNC
+ISE,Female,FCD,FCD,FCD,FCD,FC,FCD,FC,FC,FC,CET,lg software,2,1,MNC
+CSE,Female,FCD,FC,FC,FC,SC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+CSE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,COMED-K,sonata software,3,1,MNC
+CSE,Male,FCD,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FCD,FCD,FC,FC,FCD,CET,cognizant technology solutions,3,1,MNC
+ISE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,"hcl technologies ltd.,",3,1,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FC,FCD,FC,FC,FC,CET,lg software,2,1,MNC
+ISE,Female,FCD,FCD,FC,FCD,FC,FC,SC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+ISE,Female,FCD,FC,FC,FC,FC,FC,FC,FC,FC,CET,"hcl technologies ltd.,",3,1,MNC
+ECE,Female,FCD,FC,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,"hcl technologies ltd.,",3,1,MNC
+CSE,Male,FC,FCD,FC,FC,SC,FC,SC,SC,FC,Management,cognizant technology solutions,3,1,MNC
+ECE,Male,FCD,FC,FCD,FC,FC,FC,SC,SC,FC,COMED-K,ibm,2,1,MNC
+ISE,Female,FC,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,vantage agora operations,3,1,Private 
+ISE,Male,FCD,FC,FC,FC,SC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+CSE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,tata elxsi,3,1,MNC
+CSE,Male,FC,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+CSE,Female,FCD,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+ISE,Female,FCD,FC,FCD,FCD,FC,FCD,FC,FC,FC,COMED-K,mcafee,1,1,MNC
+ISE,Female,FCD,FC,FCD,FCD,FC,FCD,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+CSE,Male,FC,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+ISE,Male,FC,FC,FC,FC,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+ISE,Male,FCD,FCD,FC,FC,FC,FC,SC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+CSE,Female,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,oracle,1,1,MNC
+ISE,Female,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+CSE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,capgemini,3,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FC,FC,FCD,CET,cognizant technology solutions,3,1,MNC
+ISE,Female,FCD,FCD,FCD,FC,FC,FCD,FC,FC,FC,COMED-K,lg software,2,2,MNC
+ISE,Male,FCD,FC,FC,FC,FC,SC,SC,SC,FC,CET,cognizant technology solutions,3,1,MNC
+ECE,Male,FC,FC,FC,FC,SC,FC,SC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+CSE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+ISE,Male,FC,FC,FC,FC,FC,FC,SC,SC,FC,COMED-K,century link,2,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,wipro,3,1,MNC
+ISE,Female,FCD,FC,FC,FC,FC,FC,FC,FC,FC,CET,"hcl technologies ltd.,",3,1,MNC
+ISE,Male,FCD,FCD,FC,FC,FC,FC,SC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+CSE,Female,FCD,FC,FC,FC,FC,FC,FC,FC,FC,CET,sonata software,3,1,MNC
+ECE,Male,FCD,FCD,FC,FC,SC,FC,SC,SC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+ECE,Male,FCD,FCD,FC,FC,FC,FC,SC,FC,FC,CET,cognizant technology solutions,4,2,MNC
+ISE,Female,FC,FC,FC,FC,SC,SC,SC,SC,SC,COMED-K,cognizant technology solutions,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FC,FC,SC,SC,SC,FC,CET,wipro,3,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+CSE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,fidelity investments,2,1,Private
+ISE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,lg software,2,2,MNC
+ISE,Male,FCD,FC,FC,FC,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+ECE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+ECE,Female,FCD,FC,FC,FC,FC,SC,SC,SC,FC,CET,cognizant technology solutions,3,1,MNC
+CSE,Female,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+ECE,Female,FCD,FC,FCD,FCD,FC,FC,FC,FC,FC,CET,harman international,1,1,MNC
+CSE,Male,FC,FC,FC,FC,FC,FC,SC,SC,FC,COMED-K,wipro,3,1,MNC
+ISE,Female,FCD,FC,FC,FC,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FCD,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+ECE,Male,FCD,FC,FCD,FC,FC,SC,SC,SC,FC,CET,cognizant technology solutions,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FCD,FC,FC,FC,COMED-K,"hcl technologies ltd.,",3,1,MNC
+CSE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+ISE,Male,FCD,FC,SC,FC,FC,FC,FC,FC,FC,CET,sapient,2,1,MNC
+ISE,Male,FCD,FCD,FC,FC,FC,FC,SC,SC,FC,CET,"hcl technologies ltd.,",3,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+CSE,Male,FC,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,fidelity investments,2,2,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,wipro,3,1,MNC
+ISE,Male,FCD,FC,FC,FC,FC,FC,SC,FC,FC,COMED-K,hahsedin,2,2,MNC
+CSE,Male,FC,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,"hcl technologies ltd.,",3,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+CSE,Male,FC,FC,FC,FC,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+CSE,Male,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,COMED-K,wipro,3,1,MNC
+ISE,Male,FC,FC,FC,FC,SC,SC,SC,FC,FC,COMED-K,century link,3,1,MNC
+ISE,Male,FCD,FC,FC,FC,FC,SC,FC,FC,FC,CET,"hcl technologies ltd.,",3,1,MNC
+ECE,Male,FCD,FC,FC,FC,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+CSE,Male,FC,FC,FC,FC,SC,FC,FC,FC,FC,COMED-K,rare mile technologies,3,2,Private
+ECE,Male,FCD,FC,FC,FC,FCD,FC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+ISE,Female,FCD,FC,FC,FC,FC,FC,FC,FC,FC,CET,cognizant technology solutions,3,1,MNC
+ECE,Male,FCD,FC,FC,FCD,FC,FC,FC,FC,FC,Management,cognizant technology solutions,3,1,MNC
+ISE,Male,FCD,FC,FC,FC,SC,FC,FC,FC,FC,COMED-K,cognizant technology solutions,3,1,MNC
+CSE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,COMED-K,samsung,1,2,MNC
+ISE,Male,FCD,FCD,FCD,FCD,FC,FCD,FCD,FC,FCD,COMED-K,infibeam,1,1,Private
+ISE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,metricstream,2,2,Private 
+ECE,Male,FCD,FC,FC,FCD,FC,FC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+ISE,Male,FCD,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,tesco,2,1,MNC
+CSE,Male,FCD,SC,FC,FC,FC,SC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+CSE,Male,FCD,FC,FCD,FC,FC,FC,FC,SC,FC,COMED-K,accenture,3,1,MNC
+ISE,Male,FCD,FC,FCD,FC,FC,FC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+ECE,Male,FC,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,infosys,3,1,MNC
+ISE,Male,FCD,FCD,FCD,FCD,FCD,FC,FC,FC,FC,CET,metricstream,2,2,Private 
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,media tek,1,1,MNC
+ISE,Male,FCD,FC,FC,FC,FC,FC,FC,FC,FC,CET,nokia,2,2,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FCD,FC,SC,FC,FC,CET,accenture,3,1,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,tesco,2,2,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ISE,Male,FC,FC,SC,SC,SC,SC,SC,FC,SC,COMED-K,centurylink,3,1,MNC
+CSE,Male,FCD,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,samsung,1,2,MNC
+ECE,Male,FC,FCD,FC,FC,FC,FC,SC,SC,FC,CET,accenture,3,1,MNC
+MECH,Male,FCD,FC,FC,FC,SC,FC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+CSE,Male,FCD,FCD,FC,FC,SC,FC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+ECE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,COMED-K,ericsson,3,2,MNC
+CSE,Female,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,kpmg,2,2,Partnership
+ECE,Female,FCD,FC,FC,FC,SC,SC,SC,SC,FC,Management,ericsson,3,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+ISE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,kpmg,2,1,Partnership
+ISE,Male,FCD,FC,FC,FC,SC,SC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+ECE,Male,FC,FCD,FCD,FC,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ISE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,oracle,1,2,MNC
+ISE,Female,FC,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+ISE,Female,FCD,FC,FC,FC,SC,FC,SC,FC,FC,COMED-K,accenture,3,1,MNC
+ECE,Female,FC,FCD,FCD,FCD,FCD,FC,FC,FC,FCD,CET,accenture,3,1,MNC
+ISE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,morgan stanley,1,1,MNC
+MECH,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ISE,Male,FC,SC,FC,FC,SC,FC,SC,FC,FC,Management,accenture,3,1,MNC
+CSE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+MECH,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ISE,Female,FC,FC,FC,FCD,FC,FC,FC,FC,FC,CET,igate,3,1,MNC
+ECE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+MECH,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+ISE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,sapient,2,2,MNC
+ISE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,Management,accenture,3,1,MNC
+ECE,Male,FC,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,infosys,3,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ECE,Male,FC,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+ISE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,mercedese benz,2,2,MNC
+ECE,Male,FCD,FCD,FC,FC,SC,SC,SC,SC,FC,CET,accenture,3,1,MNC
+ISE,Male,FC,FC,FC,SC,SC,SC,SC,SC,SC,Management,accenture,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FCD,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,robert bosch,2,2,MNC
+CSE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,morgan stanley,1,1,MNC
+MECH,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,Management,accenture,3,1,MNC
+CSE,Male,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,CET,tesco,2,2,MNC
+ISE,Female,FCD,FCD,FC,FC,SC,FC,FC,FC,FC,Management,igate,3,1,MNC
+ECE,Male,FC,FC,FC,FC,SC,SC,SC,SC,SC,CET,accenture,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+MECH,Male,SC,FCD,FC,FC,SC,FC,SC,FC,FC,CET,rolon seals,3,1,Private
+ISE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+CSE,Female,FC,FCD,FC,FC,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ISE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FCD,FC,FC,FC,FC,Management,infosys,3,1,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+ISE,Male,FCD,FCD,FC,FC,SC,FC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+ECE,Female,FC,FC,FC,FC,SC,FC,FC,SC,FC,Management,accenture,3,1,MNC
+ECE,Female,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,Management,accenture,3,1,MNC
+ECE,Male,FCD,FCD,FC,FC,FC,FC,SC,FC,FC,CET,accenture,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,COMED-K,ericsson,3,2,MNC
+MECH,Male,FC,FC,FC,FC,FC,FC,FC,FC,FC,CET,l&t infotech,3,2,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FC,FCD,FC,FC,FCD,COMED-K,thorogood,1,1,Private 
+ISE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,sapient,2,2,MNC
+ECE,Male,FCD,FCD,FC,FCD,FC,FC,FC,SC,FC,CET,accenture,3,1,MNC
+ECE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,igate,3,1,MNC
+CSE,Male,FCD,FCD,FC,FC,SC,FC,FC,FC,FC,COMED-K,ge,1,2,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,nokia,2,2,MNC
+CSE,Male,FC,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,infosys,3,1,MNC
+ECE,Female,FC,FC,FC,FC,FC,FC,SC,FC,FC,CET,accenture,3,1,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,tesco,2,2,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,SC,SC,FC,CET,ims health,2,1,Public
+CSE,Female,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ISE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ISE,Male,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+CSE,Male,FCD,FC,SC,SC,FC,FC,FC,FC,FC,CET,infosys,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,infosys,3,1,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,samsung,1,2,MNC
+ISE,Male,FC,FC,FC,FC,FC,FC,SC,SC,FC,CET,accenture,3,1,MNC
+CSE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,Management,accenture,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+MECH,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,accenture,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ECE,Male,FCD,FC,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,infosys,3,1,MNC
+ISE,Male,FCD,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,software ag,2,2,MNC
+CSE,Female,FCD,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,samsung,1,2,MNC
+ISE,Female,FCD,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,sapient,2,2,MNC
+ECE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,infosys,3,1,MNC
+ECE,Male,FCD,FC,FC,FC,FC,FC,SC,SC,FC,COMED-K,accenture,3,1,MNC
+CSE,Male,FCD,FC,FC,FC,FC,SC,FC,FC,FC,Management,unisys,2,2,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,samsung,1,2,MNC
+MECH,Male,FCD,FCD,FCD,FCD,FC,FCD,FC,FC,FCD,CET,toyota kirloskar motor pvt ltd,3,2,mnc
+ECE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,ericsson,3,1,MNC
+MECH,Male,FCD,SC,FC,SC,SC,SC,SC,FC,SC,Management,ntt data,3,1,MNC
+MECH,Male,FC,SC,FC,FC,SC,SC,SC,FC,SC,CET,rolon seals,3,1,Private
+ECE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+CSE,Male,FC,FC,SC,FC,SC,FC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+ISE,Male,FCD,FC,FC,FC,FC,FCD,FCD,FCD,FC,COMED-K,accenture,3,1,MNC
+ISE,Female,FC,FC,FC,FC,FC,FC,SC,FC,FC,Management,accenture,3,1,MNC
+ISE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,textron india private limited,3,1,MNC
+ECE,Male,FCD,FC,FCD,FCD,FC,FC,FC,FC,FC,Management,accenture,3,1,MNC
+CSE,Male,FCD,FCD,FC,SC,SC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+CSE,Male,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+ISE,Male,FC,FC,FC,FC,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ISE,Male,FCD,SC,FC,FC,FC,SC,SC,FC,FC,COMED-K,accenture,3,1,MNC
+ISE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ECE,Female,FCD,FC,FCD,FCD,FC,FC,FC,FC,FC,Management,accenture,3,1,MNC
+CSE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,ge,1,2,MNC
+ISE,Male,FC,FC,FC,FC,SC,FC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FC,FCD,FC,FC,FC,CET,accenture,3,1,MNC
+ISE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+ISE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,tesco,2,2,MNC
+ISE,Male,FC,FC,FCD,FC,SC,FC,FC,FC,FC,CET,toyota kirloskar motor pvt ltd,2,2,MNC
+MECH,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,jsw steel limited,2,2,MNC
+ISE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FC,FCD,FCD,FCD,FCD,CET,mahindra comviva,2,2,MNC
+ISE,Female,FC,FC,FC,FC,SC,FC,FC,FC,FC,Management,software ag,2,2,MNC
+ECE,Male,FC,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FC,FCD,FC,FC,FC,CET,samsung,1,2,MNC
+CSE,Male,FC,FCD,SC,SC,FC,FC,FC,FC,FC,CET,icreate,3,1,Private 
+ECE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,sapient,2,2,MNC
+CSE,Female,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,infosys,3,1,MNC
+ISE,Female,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+CSE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,Management,metricstream,2,2,Private 
+CSE,Female,FCD,FCD,FCD,FCD,FC,FCD,FC,FC,FCD,CET,sapient,2,2,MNC
+ECE,Male,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,CET,igate,3,1,MNC
+ISE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FC,FC,FCD,CET,lsi,1,2,MNC
+ISE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,sap labs,1,3,Private 
+ISE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,igate,3,1,MNC
+ISE,Female,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,COMED-K,sapient,2,2,MNC
+ECE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ECE,Male,FCD,FCD,FC,FC,FC,FC,SC,SC,FC,COMED-K,accenture,3,1,MNC
+ECE,Male,FC,FCD,FC,FC,FC,FC,FC,FC,FC,Management,accenture,3,1,MNC
+ECE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ISE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,igate,3,1,MNC
+ISE,Female,FCD,FC,FCD,FC,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ECE,Female,FC,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ISE,Male,FCD,FCD,FCD,FCD,FC,FCD,FC,FC,FC,COMED-K,accenture,3,1,MNC
+ECE,Male,FCD,FC,FCD,FCD,FC,FC,SC,FC,FC,COMED-K,accenture,3,1,MNC
+CSE,Male,FCD,FC,FC,FCD,FC,FC,FC,FC,FC,COMED-K,moon raft,2,2,Private
+MECH,Male,FCD,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FC,FCD,FCD,FC,FCD,CET,samsung,1,2,MNC
+CSE,Female,FCD,FC,FC,FC,FC,FC,FC,FC,FC,Management,accenture,3,1,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+CSE,Female,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,COMED-K,kpmg,2,2,Partnership
+MECH,Male,FC,FCD,FC,FC,FC,FC,FC,FC,FC,Management,accenture,3,1,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FCD,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ECE,Male,FC,FC,FC,FC,FC,FC,FC,FC,FC,CET,icreate,3,1,Private 
+MECH,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,saint gobain,2,1,MNC
+CSE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,COMED-K,metricstream,2,2,Private 
+MECH,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,Management,rolon seals,3,1,Private
+ISE,Female,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ECE,Male,FCD,FC,FC,FCD,SC,FC,FC,FC,FC,COMED-K,sonata software,3,1,MNC
+MECH,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+ECE,Male,FCD,FC,FC,FCD,FC,FC,FC,FC,FC,Management,accenture,3,1,MNC
+ECE,Female,FCD,FCD,FC,FC,FC,SC,SC,SC,FC,Management,ericsson,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FCD,FCD,FC,FCD,FCD,CET,accenture,3,1,MNC
+ECE,Male,FCD,FCD,FC,FCD,FCD,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ISE,Female,FCD,FC,FC,FC,FC,FC,FC,FC,FC,CET,ntt data,3,1,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FC,FCD,FCD,FCD,FCD,CET,sapient,2,2,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+CSE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,mahindra comviva,2,1,MNC
+ISE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,metricstream,2,2,Private 
+CSE,Female,FCD,FCD,FCD,FCD,FC,FCD,FC,FC,FC,CET,igate,3,1,MNC
+ISE,Female,FC,FC,FC,FC,SC,FC,FC,FC,FC,Management,accenture,3,1,MNC
+ISE,Male,FCD,FCD,FC,FC,FC,FC,SC,FC,FC,CET,accenture,3,1,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,lsi,1,2,MNC
+CSE,Female,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+CSE,Female,FCD,FC,FCD,FC,FC,FC,FC,FC,FC,COMED-K,sonata software,3,1,MNC
+ISE,Male,FC,FC,FC,FC,FC,FC,SC,FC,FC,COMED-K,ntt data,3,1,MNC
+ECE,Female,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+ECE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,Management,accenture,3,1,MNC
+ISE,Female,FCD,FC,FCD,FC,FC,FC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+ECE,Male,FCD,FCD,FC,FC,SC,FC,FC,SC,FC,CET,accenture,3,1,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,ge,2,2,MNC
+CSE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,sonata software,3,1,MNC
+ISE,Female,FCD,FC,FC,FCD,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ISE,Female,FCD,FC,FCD,FC,FC,FC,FC,FC,FC,CET,nokia,2,1,MNC
+ISE,Male,FCD,FC,FC,FCD,FC,FC,FC,FC,FC,CET,indegene lifesystems pvt. ltd.,3,1,Private
+ISE,Male,FC,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,infosys,3,1,MNC
+MECH,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,infosys,3,1,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FC,FCD,FC,FCD,FCD,Management,samsung,1,2,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FC,FCD,CET,media tek,1,1,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,metricstream,2,2,Private 
+CSE,Female,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,CET,musigma,2,1,Private
+CSE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+CSE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,infosys,3,1,MNC
+ECE,Female,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+MECH,Male,FCD,FC,FC,FCD,FC,FC,FC,FC,FC,COMED-K,l&t infotech,3,2,MNC
+ISE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,centurylink,3,1,MNC
+CSE,Male,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,COMED-K,samsung,1,2,MNC
+CSE,Male,FC,FC,FC,FCD,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FC,FCD,FCD,FCD,FCD,CET,infosys,3,1,MNC
+ISE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,metricstream,2,2,Private 
+ECE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,Management,infosys,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,CET,infosys,3,1,MNC
+MECH,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,infosys,3,1,MNC
+ISE,Female,FCD,FC,FC,FC,SC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+MECH,Male,FCD,FC,FC,FC,SC,FC,SC,FC,FC,COMED-K,accenture,3,1,MNC
+ECE,Male,FC,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,igate,3,1,MNC
+ECE,Male,FCD,FC,FCD,FC,FC,FC,FC,SC,FC,COMED-K,accenture,3,1,MNC
+CSE,Female,FCD,SC,FC,FC,FC,FC,FC,FC,FC,Management,accenture,3,1,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FCD,FC,FC,FC,FC,CET,samsung,1,2,MNC
+MECH,Male,FCD,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,l&t technology services ltd,3,2,MNC
+ISE,Female,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,Management,accenture,3,1,MNC
+ISE,Female,FCD,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,tesco,2,2,MNC
+ISE,Female,FCD,FCD,FCD,FCD,FC,FCD,FCD,FC,FCD,CET,accenture,3,1,MNC
+ISE,Male,FCD,FC,FC,FC,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+CSE,Female,FCD,FC,FC,FC,SC,SC,FC,SC,FC,CET,accenture,3,1,MNC
+ISE,Male,FC,FC,FCD,FCD,FC,FC,FC,FC,FC,CET,sonata software,3,1,MNC
+CSE,Male,FCD,FC,FC,FCD,FC,FC,FC,FC,FC,Management,infosys,3,1,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,samsung,1,2,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FC,FCD,FC,FC,FC,CET,accenture,3,1,MNC
+MECH,Male,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,CET,saint gobain,2,2,MNC
+MECH,Male,FCD,FC,FC,FC,SC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+CSE,Female,FCD,FCD,FC,FCD,SC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+CSE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ECE,Male,FCD,FCD,FC,FCD,FC,FCD,FC,FC,FC,CET,infosys,3,1,MNC
+MECH,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+ECE,Male,FCD,FC,FC,FC,FC,FC,FC,FC,FC,CET,accenture,3,1,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,musigma,2,1,Private
+CSE,Female,FCD,FC,FC,FC,SC,FC,FC,FC,FC,Management,accenture,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,accenture,3,1,MNC
+ECE,Male,FCD,FCD,FC,FC,FC,SC,SC,FC,FC,COMED-K,accenture,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FCD,FCD,FC,FC,FC,CET,robert bosch,2,2,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,samsung,1,2,MNC
+ISE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,infosys,3,1,MNC
+CSE,Male,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,CET,accolite software pvt. ltd,1,2,Private
+CSE,Male,FC,FCD,FC,FCD,FC,FC,FC,FC,FC,COMED-K,accolite software pvt. ltd,1,1,Private
+ISE,Female,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,COMED-K,accolite software pvt. ltd,1,2,Private
+CSE,Male,FCD,FCD,FCD,FCD,FC,FCD,FC,FCD,FCD,COMED-K,affirmed networks,1,1,Private
+ECE,Male,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,CET,affirmed networks,1,2,Private
+CSE,Male,FCD,FCD,FCD,FC,FC,FC,FCD,FC,FC,CET,airasia,1,2,Private
+CSE,Male,FCD,FCD,FCD,FC,FCD,FC,FCD,FC,FC,CET,akamai,1,1,MNC
+ECE,Male,FCD,FCD,FC,FC,SC,SC,SC,SC,SC,COMED-K,alstom(ppo),2,1,Private
+CSE,Male,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,amadeus,1,1,Private
+CSE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,COMED-K,amadeus,1,1,Private
+ISE,Male,FCD,FCD,FCD,FCD,FC,FCD,FC,FC,FC,CET,amadeus,1,1,Private
+CSE,Male,FCD,FCD,FC,FCD,FCD,FCD,FCD,FCD,FCD,CET,amadeus,1,2,Private
+ISE,Female,FCD,FCD,FCD,FCD,FC,FC,FCD,FCD,FCD,CET,amadeus,1,2,Private
+ISE,Female,FCD,FC,FC,FC,FC,SC,FC,FC,FC,CET,arrisa,1,1,Private
+ISE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,COMED-K,arrisa,1,1,Private
+CSE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,arrisa,1,2,Private
+CSE,Female,FCD,FCD,FC,FC,SC,FC,FC,FC,FC,Management,atos,3,1,MNC
+ECE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,atos,3,1,MNC
+ECE,Female,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,COMED-K,atos,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,atos,3,1,MNC
+ECE,Male,FCD,FCD,FC,FC,SC,FC,FC,FC,FC,Management,atos,3,1,MNC
+ECE,Female,FCD,FCD,FC,FC,FC,FC,FCD,FC,FC,COMED-K,atos,3,1,MNC
+ECE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,atos,3,1,MNC
+ISE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,Management,atos,3,1,MNC
+CSE,Male,FC,FCD,FC,FC,SC,FC,FC,FC,FC,Management,betsol,2,1,Private
+CSE,Male,FCD,FCD,FC,FC,SC,SC,SC,SC,SC,CET,betsol,2,1,Private
+CSE,Male,FC,FCD,SC,SC,FC,SC,SC,SC,SC,COMED-K,betsol,2,1,Private
+MECH,Male,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,Management,byju's,2,1,Private
+MECH,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,COMED-K,byju's,2,1,Private
+ECE,Female,FCD,FCD,SC,FC,SC,SC,FC,FC,FC,COMED-K,byju's,2,2,Private
+CSE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,adobe,1,1,MNC
+CSE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,century link,2,1,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,century link,2,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,century link,2,2,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FCD,FCD,CET,cisco,1,1,MNC
+ISE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,cisco,1,1,MNC
+ISE,Female,FCD,FCD,FC,FCD,FCD,FCD,FC,FCD,FCD,CET,cognizant,2,1,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,affirmed networks,1,1,Private
+CSE,Male,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,COMED-K,deloitte india,2,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,deloitte usi advisory,2,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,deloitte usi advisory,2,1,MNC
+ECE,Male,FC,FCD,FCD,FCD,FC,FCD,FCD,FCD,FCD,CET,deloitte usi advisory,2,1,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,deloitte usi advisory,2,1,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,deloitte usi advisory,2,1,MNC
+CSE,Male,FCD,FCD,FC,FCD,FC,FC,FCD,FC,FC,Management,deloitte usi advisory,2,1,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FC,FCD,FCD,CET,deloitte usi advisory,2,1,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,deloitte usi advisory,2,1,MNC
+ECE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,deloitte usi advisory,2,1,MNC
+ISE,Male,FCD,FCD,FC,FC,FC,FC,SC,FC,FC,COMED-K,deloitte usi advisory,2,1,MNC
+ISE,Male,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,CET,deloitte usi advisory,2,1,MNC
+ISE,Female,FCD,FCD,FCD,FCD,FC,FC,FCD,FCD,FCD,Management,deloitte usi advisory,2,1,MNC
+ISE,Male,FCD,FC,FC,FCD,FC,FC,FC,FC,FC,Management,deloitte usi advisory,2,1,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FCD,FC,FC,FCD,FCD,COMED-K,deloitte usi advisory,2,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FC,FC,FCD,FCD,FCD,COMED-K,deloitte usi advisory,2,1,MNC
+MECH,Male,FCD,FCD,FCD,FCD,FCD,FC,FCD,FCD,FCD,CET,deloitte usi advisory,2,1,MNC
+CSE,Male,FC,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,dxc technologies,2,1,Private 
+ECE,Male,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,dxc technologies,2,1,Private 
+ECE,Female,FCD,FCD,FCD,FCD,FC,FC,FCD,FCD,FCD,CET,dxc technologies,2,2,Private 
+CSE,Male,FCD,FCD,FC,FCD,FC,FCD,FCD,FC,FC,CET,edgeverve,1,1,Private
+CSE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,amazon,1,1,MNC
+ECE,Female,FC,FCD,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,ericsson,3,1,MNC
+ECE,Female,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,COMED-K,ericsson,3,1,MNC
+ECE,Female,FC,FCD,FC,FC,FC,FC,FC,FC,FC,Management,ericsson,3,1,MNC
+ECE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,ericsson,3,1,MNC
+ECE,Female,FCD,FCD,FC,FC,SC,FC,FC,FC,FC,COMED-K,ericsson,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,SC,FC,FC,FC,COMED-K,ericsson,3,1,MNC
+ISE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,ericsson,3,1,MNC
+ISE,Female,FCD,FCD,SC,FC,FC,FC,FC,FC,FC,CET,ericsson,3,1,MNC
+ISE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,ericsson,3,1,MNC
+MECH,Male,FC,FC,SC,FC,SC,SC,SC,SC,SC,Management,evosys,3,1,Private
+ISE,Female,FCD,FCD,FCD,FCD,FC,FC,FCD,FCD,FCD,COMED-K,extreme network,1,2,MNC
+CSE,Male,FCD,FC,FC,FC,FC,FC,FCD,FC,FC,Management,extreme network,1,2,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FCD,FCD,CET,extreme network,1,2,MNC
+ISE,Male,FCD,FCD,FCD,FCD,FCD,FC,FC,FCD,FCD,CET,extreme network,1,2,MNC
+CSE,Female,FCD,FCD,FC,FC,SC,FC,FC,FC,FC,Management,ge,1,2,MNC
+MECH,Female,FCD,FCD,FCD,FCD,FC,FCD,FCD,FCD,FCD,CET,ge,1,1,MNC
+MECH,Male,FCD,FCD,FCD,FCD,FCD,FCD,FC,FCD,FCD,CET,ge,1,1,MNC
+CSE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,ge,1,2,MNC
+CSE,Male,FC,FCD,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,ge,1,2,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,ge,1,2,MNC
+CSE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,Management,ge,1,2,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,ge,1,2,MNC
+CSE,Female,FCD,FCD,FC,FCD,FC,FC,FCD,FC,FC,CET,ge,1,2,MNC
+CSE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,genpact,2,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,genpact,2,1,MNC
+ISE,Male,FCD,FCD,SC,FC,FC,FC,FC,FC,FC,COMED-K,genpact,2,2,MNC
+CSE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,genpact,2,2,MNC
+CSE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,Management,genpact,2,2,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FC,FCD,FCD,FCD,FCD,CET,gigsky india private limited,1,1,Private 
+CSE,Female,FCD,FCD,SC,SC,SC,FC,FC,FC,SC,Management,gocrack it,3,1,Private
+CSE,Male,FC,FC,SC,SC,SC,FC,FC,FC,SC,CET,gocrack it,3,1,Private
+CSE,Female,FCD,FCD,FC,FC,SC,FC,SC,FC,FC,COMED-K,grofers,1,2,Private 
+ISE,Female,FCD,FCD,FCD,FCD,FC,FCD,FC,FCD,FCD,COMED-K,head digital works pvt. ltd.,2,1,Private 
+CSE,Male,FCD,FC,FC,FC,FC,SC,SC,FC,FC,COMED-K,head digital works pvt. ltd.,2,2,Private 
+CSE,Female,FCD,FC,SC,SC,SC,SC,FC,FC,SC,CET,head digital works pvt. ltd.,2,2,Private 
+ISE,Male,FCD,FCD,FC,FC,FCD,FCD,FC,FC,FC,COMED-K,hiver,2,1,Private 
+ECE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,hotelsoft,3,1,Private 
+ECE,Male,FCD,FCD,FCD,FCD,FC,SC,FC,FC,FC,COMED-K,hotelsoft,3,1,Private 
+CSE,Female,FCD,FCD,FCD,FC,FCD,FC,FC,FC,FC,COMED-K,adobe,1,2,MNC
+CSE,Female,FCD,FCD,FC,FCD,FCD,FCD,FCD,FCD,FCD,COMED-K,adobe,1,2,MNC
+CSE,Male,FCD,FCD,FC,FC,FC,FC,SC,FC,FC,COMED-K,ibm,2,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FCD,FCD,CET,ibm,2,1,MNC
+ECE,Male,FC,FC,FC,FCD,FC,FC,SC,FC,FC,COMED-K,ibm,2,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FCD,FCD,COMED-K,ibm,2,1,MNC
+ISE,Female,FCD,FCD,FC,FC,SC,SC,FC,FC,FC,COMED-K,ibm,1,1,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,ibm,1,2,MNC
+ISE,Female,FCD,FC,FC,FC,FC,FC,FC,FC,FC,Management,ibm,1,2,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FCD,FC,FC,FCD,FCD,CET,ibm,1,2,MNC
+ISE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,Management,ibm,1,2,MNC
+CSE,Male,FCD,FCD,FC,SC,SC,FC,FC,FC,FC,Management,senzopt ,3,2,Private
+CSE,Male,FCD,FCD,FCD,FCD,FCD,FCD,FC,FCD,FCD,CET,infibeam,1,1,Private
+ISE,Female,FCD,FCD,FCD,FCD,FC,FC,FCD,FC,FC,CET,infibeam,1,1,Private
+CSE,Male,FCD,FCD,FC,FC,FC,SC,SC,FC,FC,COMED-K,infosys,3,1,MNC
+CSE,Female,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,infosys,3,1,MNC
+CSE,Male,FCD,FCD,SC,FC,FC,FC,FC,FC,FC,CET,infosys,3,1,MNC
+CSE,Female,FCD,FCD,SC,FC,FC,FC,FC,FC,FC,COMED-K,infosys,3,1,MNC
+CSE,Female,FC,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,infosys,3,1,MNC
+CSE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,Management,infosys,3,1,MNC
+CSE,Female,FCD,FCD,FC,FC,SC,FC,FC,FC,FC,Management,infosys,3,1,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FC,SC,FC,FC,FC,COMED-K,infosys,3,1,MNC
+CSE,Male,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,COMED-K,infosys,3,1,MNC
+CSE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,infosys,3,1,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FCD,FCD,CET,infosys,3,1,MNC
+ECE,Male,FC,FCD,FC,FCD,FC,SC,FC,FC,FC,Management,infosys,3,1,MNC
+ECE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,infosys,3,1,MNC
+ECE,Male,FCD,FCD,FC,FC,SC,SC,FC,FC,FC,Management,infosys,3,1,MNC
+ECE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,COMED-K,infosys,3,1,MNC
+ECE,Male,FCD,FCD,FC,FC,FC,SC,FC,FC,FC,COMED-K,infosys,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,infosys,3,1,MNC
+ECE,Female,FC,FC,FC,FC,FC,SC,FC,FC,FC,CET,infosys,3,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,infosys,3,1,MNC
+ECE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,infosys,3,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,Management,infosys,3,1,MNC
+ISE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,infosys,3,1,MNC
+ISE,Female,FCD,FC,FC,FC,SC,SC,SC,FC,FC,Management,infosys,3,1,MNC
+ISE,Female,FCD,FC,SC,FC,SC,SC,FC,SC,SC,Management,infosys,3,1,MNC
+ISE,Female,FCD,FCD,SC,FC,FC,FC,FC,FC,FC,COMED-K,infosys,3,1,MNC
+ISE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,COMED-K,infosys,3,1,MNC
+ISE,Female,FCD,FC,FC,FC,SC,SC,FC,SC,FC,Management,infosys,3,1,MNC
+ISE,Male,FCD,FCD,FC,FC,SC,SC,FC,FC,FC,Management,infosys,3,1,MNC
+ISE,Female,FCD,FCD,FC,FC,FC,SC,FC,FC,FC,CET,infosys,3,1,MNC
+ISE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,infosys,3,1,MNC
+ISE,Female,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,CET,infosys,3,1,MNC
+ISE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,Management,infosys,3,1,MNC
+MECH,Male,FCD,FCD,FCD,FCD,FC,FCD,FC,FC,FC,CET,infosys,3,1,MNC
+MECH,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,infosys,3,1,MNC
+MECH,Male,FCD,FCD,FCD,FCD,FCD,FC,FCD,FCD,FCD,CET,infosys,3,1,MNC
+MECH,Male,FCD,FCD,FCD,FCD,FCD,FC,FC,FCD,FCD,CET,infosys,3,1,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FCD,CET,infosys,1,1,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FC,FCD,FCD,CET,infosys,1,1,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FCD,FCD,FC,FCD,FCD,CET,infosys,1,2,MNC
+CSE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,infosys,2,1,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FC,FC,SC,FC,FC,Management,infosys,3,1,MNC
+ISE,Male,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,instamojo technologies,1,1,Private 
+CSE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,itron india pvt ltd.,1,1,Private
+MECH,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,jsw steel limited,2,1,MNC
+MECH,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,Management,jsw steel limited,2,1,MNC
+MECH,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,jsw steel limited,2,1,MNC
+MECH,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,jsw steel limited,2,2,MNC
+MECH,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,jsw steel limited,2,2,MNC
+MECH,Male,FCD,FC,FC,FCD,FC,FC,FC,FC,FC,COMED-K,jsw steel limited,2,2,MNC
+ECE,Male,FCD,FC,FC,FCD,FC,FC,FC,FC,FC,COMED-K,kpit,2,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,kpit,2,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FCD,FC,FC,FC,FC,CET,kpit,2,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,kpit,2,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,kpit,2,1,MNC
+ECE,Male,FC,FCD,FC,FC,FC,SC,FC,FC,FC,Management,kpit,2,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,kpit,2,1,MNC
+ECE,Male,FCD,FCD,FC,FCD,SC,SC,FC,FC,FC,Management,kpit,2,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,kpit,2,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,kpit,2,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,kpit,2,1,MNC
+ECE,Male,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,CET,kpit,2,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,kpit,2,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,COMED-K,kpit,2,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FCD,FC,FCD,FCD,FCD,CET,kpit,2,1,MNC
+ECE,Male,FC,FCD,FC,FC,FC,FC,FC,FC,FC,Management,kpit,2,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FCD,FCD,FCD,COMED-K,kpit,2,1,MNC
+ECE,Male,FCD,FCD,FC,FC,SC,SC,SC,FC,FC,Management,kpit,2,1,MNC
+ECE,Male,FCD,FCD,FC,FC,FC,FCD,FC,FCD,FC,Management,kpit,2,1,MNC
+CSE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,kpmg,2,1,Partnership
+CSE,Female,FCD,FCD,FCD,FCD,FC,FCD,FC,FCD,FCD,Management,kpmg,2,2,Partnership
+ISE,Male,FCD,FC,FC,FC,SC,FC,SC,FC,FC,Management,kpmg,2,2,Partnership
+CSE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,l&t technology services ltd,2,1,MNC
+CSE,Male,FCD,FCD,FC,SC,FC,SC,FC,FC,FC,Management,l&t technology services ltd,2,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FCD,FCD,COMED-K,l&t technology services ltd,2,1,MNC
+ECE,Male,FCD,FC,FC,FC,SC,SC,SC,SC,SC,COMED-K,l&t technology services ltd,2,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,COMED-K,l&t technology services ltd,2,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,l&t technology services ltd,2,1,MNC
+MECH,Male,FCD,FCD,FCD,FC,FC,FC,FCD,FC,FC,CET,l&t technology services ltd,2,1,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FC,FCD,FC,FCD,FCD,CET,microchip,1,1,Private
+CSE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,COMED-K,microchip,1,1,Private
+ECE,Female,FCD,FCD,FCD,FCD,FC,FC,FCD,FCD,FCD,COMED-K,microchip,1,1,Private
+CSE,Male,FCD,FCD,FCD,FC,FCD,FCD,FCD,FC,FCD,CET,microchip,1,2,Private
+ECE,Female,FCD,FCD,FCD,FCD,FCD,FC,FCD,FCD,FCD,CET,microchip,1,2,Private
+ECE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,microchip,1,2,Private
+CSE,Male,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,COMED-K,microchip,1,2,Private
+ECE,Female,FCD,FCD,FCD,FCD,FC,FCD,FCD,FCD,FCD,COMED-K,microchip,1,2,Private
+CSE,Male,FCD,FCD,FCD,FCD,FC,FCD,FC,FCD,FCD,COMED-K,microsoft,1,1,MNC
+CSE,Female,FC,FCD,SC,FC,FC,FC,FC,FC,FC,Management,musigma,3,1,Private
+MECH,Male,FCD,FCD,FCD,FCD,FC,FCD,FCD,FCD,FCD,CET,musigma,3,1,Private
+ISE,Male,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,COMED-K,myntra designs,1,2,Private
+ISE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,myntra designs,1,2,Private
+CSE,Male,FC,FCD,FC,FC,FC,FC,FC,FC,FC,CET,ncr,1,1,MNC
+CSE,Male,FCD,FCD,FC,FC,SC,FC,FC,FC,FC,CET,ninjacart,3,1,Private
+CSE,Male,FCD,FC,FC,FC,SC,SC,SC,FC,SC,Management,ninjacart,3,1,Private
+CSE,Male,FCD,FC,FC,FC,SC,SC,SC,FC,FC,Management,ninjacart,3,1,Private
+MECH,Male,FCD,FCD,SC,FC,FC,SC,SC,FC,FC,COMED-K,ninjacart,3,1,Private
+CSE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,nokia,2,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FCD,FC,FC,FCD,FCD,Management,nokia,2,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FCD,FC,FC,FC,FC,CET,nokia,2,2,MNC
+ISE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,nokia,2,2,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FC,FC,FCD,FCD,FCD,CET,nokia,2,2,MNC
+CSE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,nokia,2,2,MNC
+ECE,Female,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,nokia,2,2,MNC
+CSE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,ntt data,2,1,MNC
+CSE,Male,FCD,FC,FC,FC,SC,SC,FC,FC,FC,CET,ntt data,2,1,MNC
+CSE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,ntt data,2,1,MNC
+ECE,Female,FCD,FCD,FC,FC,FC,SC,SC,FC,FC,CET,ntt data,2,1,MNC
+ECE,Female,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,ntt data,2,1,MNC
+CSE,Male,FC,FCD,SC,SC,SC,FC,FC,FC,SC,CET,ntt data,2,1,MNC
+ECE,Male,FCD,FCD,FC,FCD,SC,FC,FC,FC,FC,COMED-K,ntt data,2,2,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,ge,1,2,MNC
+ISE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,ge,1,2,MNC
+ISE,Male,FC,FCD,FC,FC,SC,FC,FC,FC,FC,CET,one origin,3,1,Private
+ECE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,COMED-K,optum,2,1,Private
+ISE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,optum,2,1,Private
+ISE,Male,FCD,FCD,FC,FC,SC,FC,FC,FC,FC,CET,optum,2,1,Private
+ISE,Female,FCD,FCD,FCD,FCD,FC,FCD,FCD,FCD,FCD,CET,optum,2,2,Private
+CSE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,COMED-K,oracle,1,2,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FC,FCD,FCD,FCD,FCD,COMED-K,oracle,1,2,MNC
+CSE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,oracle,1,2,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FCD,FCD,FC,FCD,FCD,CET,oracle,1,2,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,oracle,1,2,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,oracle,1,2,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FC,FCD,FCD,CET,oracle,1,2,MNC
+CSE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,oracle,1,2,MNC
+ISE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FC,FCD,FCD,CET,oracle,1,2,MNC
+ISE,Female,FCD,FCD,FCD,FCD,FC,FCD,FC,FC,FCD,Management,oracle,1,2,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FCD,FC,FC,FCD,FCD,COMED-K,oracle,1,2,MNC
+ISE,Female,FCD,FCD,FCD,FCD,FCD,FC,FC,FCD,FCD,CET,oracle,1,2,MNC
+ISE,Female,FCD,FCD,FCD,FCD,FC,FCD,FCD,FCD,FCD,CET,oracle,1,2,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,oracle,1,1,MNC
+ISE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,COMED-K,oracle,1,2,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FC,FC,FCD,FC,FC,CET,oracle,1,2,MNC
+ISE,Male,FCD,FCD,FCD,FCD,FCD,FC,FC,FC,FC,CET,perfios,2,2,Private
+ISE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,COMED-K,perfios,2,2,Private
+CSE,Female,FCD,FCD,FCD,FCD,FC,FC,FCD,FCD,FCD,CET,perfios,2,2,Private
+CSE,Male,FCD,FCD,FCD,FCD,FC,FCD,FC,FC,FC,COMED-K,prompt cloud,2,2,Private
+CSE,Male,FCD,FC,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,prompt cloud,2,2,Private
+MECH,Male,FCD,FCD,FCD,FCD,FC,FC,FCD,FCD,FCD,CET,quest global,3,1,Private
+MECH,Female,FC,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,quest global,3,1,Private
+MECH,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,quest global,3,1,Private
+MECH,Male,FCD,FCD,FCD,FCD,FCD,FC,FC,FCD,FCD,CET,quest global,3,1,Private
+MECH,Female,FCD,FCD,FC,FC,FCD,FC,FC,FC,FC,Management,quest global,3,1,Private
+CSE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,relevance lab,2,1,Private
+ISE,Female,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,relevance lab,2,1,Private
+ISE,Male,FCD,FCD,FC,FC,FC,SC,SC,SC,SC,COMED-K,relevance lab,2,2,Private
+MECH,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FCD,FCD,CET,reliance retail limited,2,1,MNC
+MECH,Male,FCD,FCD,FCD,FCD,FC,FCD,FC,FCD,FCD,COMED-K,reliance retail limited,2,1,MNC
+MECH,Male,FCD,FCD,FCD,FCD,FCD,FCD,FC,FCD,FCD,CET,reliance retail limited,2,1,MNC
+MECH,Male,FCD,FC,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,reliance retail limited,2,1,MNC
+MECH,Male,FCD,FCD,FC,FC,FC,FC,FCD,FC,FC,CET,reliance retail limited,2,1,MNC
+MECH,Male,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,reliance retail limited,2,1,MNC
+MECH,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FCD,FCD,CET,reliance retail limited,2,1,MNC
+CSE,Male,FCD,FC,FC,FC,FC,FCD,FCD,FC,FC,Management,robert bosch,2,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FCD,FCD,FCD,COMED-K,robert bosch,2,1,MNC
+ECE,Female,FCD,FCD,FC,FCD,FC,FCD,FCD,FCD,FCD,COMED-K,robert bosch,2,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FCD,FC,FC,FCD,FCD,COMED-K,robert bosch,2,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,robert bosch,2,1,MNC
+ECE,Male,FCD,FC,FC,FCD,FC,FC,FC,FC,FC,Management,robert bosch,2,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FCD,FC,FCD,FCD,FCD,CET,robert bosch,2,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,robert bosch,2,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,robert bosch,2,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,robert bosch,2,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,robert bosch,2,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,COMED-K,robert bosch,2,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,robert bosch,2,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,robert bosch,2,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,robert bosch,2,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FC,FCD,FCD,FCD,FCD,CET,robert bosch,2,1,MNC
+ECE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,robert bosch,2,2,MNC
+CSE,Female,FC,FCD,FC,FC,FC,FC,FC,FC,FC,Management,robert bosch,2,2,MNC
+CSE,Male,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,Management,samsung,1,1,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FC,FCD,FC,FCD,FCD,CET,samsung,1,1,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FCD,FCD,FC,FCD,FCD,CET,samsung,1,1,MNC
+CSE,Male,FCD,FCD,FCD,FC,FC,FCD,FC,FC,FC,COMED-K,sap labs ,1,1,MNC
+ISE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FCD,FCD,CET,shell,1,2,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,societe generale,1,2,MNC
+CSE,Female,FCD,FCD,FC,FCD,FC,FCD,FC,FCD,FCD,CET,software ag,2,1,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,COMED-K,sprinklr,1,1,Private
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,SC,FC,FC,CET,standard chartered,2,1,MNC
+CSE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,subex,2,1,MNC
+ECE,Male,FCD,FCD,FC,FCD,FC,FC,FCD,FCD,FCD,COMED-K,subex,2,1,MNC
+CSE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,tally solutions,2,1,Private
+ISE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,tally solutions,2,2,Private
+ISE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,tally solutions,2,1,Private
+ISE,Female,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,CET,target,1,1,MNC
+ISE,Female,FCD,FCD,FCD,FC,FCD,FCD,FC,FCD,FCD,Management,target,1,2,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,target,1,2,MNC
+ISE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,COMED-K,target,1,2,MNC
+ISE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,target,1,2,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FCD,FC,FC,FCD,FCD,CET,target,1,2,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,target,1,2,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,Management,target,1,2,MNC
+CSE,Female,FC,FC,SC,SC,SC,FC,FC,FC,SC,CET,tech tree,3,1,Private
+ECE,Male,FCD,FCD,FCD,FCD,FC,FC,FCD,FCD,FCD,COMED-K,tektronix,1,2,Private 
+ECE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,COMED-K,tektronix,1,2,Private 
+CSE,Male,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,COMED-K,themathcompany,2,1,Private 
+MECH,Male,FCD,FC,FC,FC,SC,SC,SC,SC,SC,COMED-K,toyota kirloskar motor pvt ltd,2,1,MNC
+ISE,Male,FCD,FC,FC,FCD,FC,FC,SC,FC,FC,Management,ugam solutions pvt ltd,2,1,Private 
+ISE,Male,FCD,FCD,FCD,FCD,FC,FCD,FC,FCD,FCD,COMED-K,ugam solutions pvt ltd,2,1,Private 
+CSE,Male,FCD,FCD,FCD,FCD,FC,FCD,FC,FCD,FCD,CET,ugam solutions pvt ltd,2,2,Private 
+ISE,Male,FCD,FCD,FCD,FCD,FCD,FCD,FC,FC,FCD,CET,unacademy,1,2,Private
+CSE,Female,FCD,FCD,SC,FC,FC,FCD,FC,FC,FC,Management,vantage agora,2,1,Private
+CSE,Male,FCD,FCD,FCD,FCD,FC,FCD,FC,FC,FC,Management,wipro,2,1,MNC
+CSE,Male,FCD,FC,FC,FC,FC,FC,SC,SC,SC,COMED-K,wipro,2,1,MNC
+CSE,Male,FCD,FCD,FCD,FCD,FCD,FC,FC,FCD,FCD,COMED-K,wipro,2,1,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,wipro,2,1,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FCD,FC,FC,FCD,FCD,COMED-K,wipro,2,1,MNC
+CSE,Female,FC,FCD,FC,FCD,FC,FC,FC,FC,FC,Management,wipro,2,1,MNC
+CSE,Female,FCD,FCD,FC,FC,FC,FC,SC,FC,FC,Management,wipro,2,1,MNC
+CSE,Male,FCD,FC,SC,FC,FC,SC,FC,FC,FC,CET,wipro,2,1,MNC
+CSE,Male,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,CET,wipro,2,1,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,wipro,2,1,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,wipro,2,1,MNC
+CSE,Female,FCD,FCD,FCD,FCD,FC,FC,FCD,FC,FC,Management,wipro,2,1,MNC
+CSE,Male,FCD,FCD,FC,FC,FC,FC,SC,FC,FC,COMED-K,wipro,2,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,COMED-K,wipro,2,1,MNC
+ECE,Male,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,COMED-K,wipro,2,1,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,Management,wipro,2,1,MNC
+ECE,Male,FCD,FC,FC,FCD,FC,SC,FC,FC,FC,Management,wipro,2,1,MNC
+ISE,Male,FC,FCD,FC,FC,FC,SC,FC,FC,FC,COMED-K,wipro,2,1,MNC
+ISE,Male,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,CET,wipro,2,1,MNC
+ISE,Female,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,wipro,2,1,MNC
+ISE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FC,FCD,FCD,CET,wipro,2,1,MNC
+ISE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,wipro,2,1,MNC
+ISE,Male,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,COMED-K,wipro,2,1,MNC
+ISE,Female,FCD,FCD,FC,FC,FC,FC,FC,FC,FC,COMED-K,wipro,2,1,MNC
+ISE,Female,FCD,FCD,FC,FC,FCD,FCD,FC,FC,FC,COMED-K,wipro,2,1,MNC
+MECH,Male,FCD,FC,FCD,FCD,FC,FC,FC,SC,FC,COMED-K,wipro,2,1,MNC
+CSE,Male,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,COMED-K,wipro,2,2,MNC
+CSE,Male,FCD,FC,SC,FC,SC,FC,FC,FC,FC,Management,wipro,2,2,MNC
+ECE,Female,FCD,FCD,FCD,FCD,FC,FC,FC,FC,FC,CET,wipro,2,2,MNC
+ISE,Female,FCD,FCD,FCD,FCD,FCD,FC,FC,FCD,FCD,COMED-K,wipro,2,2,MNC
+ISE,Male,FCD,FCD,FCD,FC,FCD,FCD,FC,FCD,FCD,COMED-K,wissen technology private limited,1,2,Private
+CSE,Male,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,wissen technology private limited,1,2,Private
+CSE,Male,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,COMED-K,wissen technology private limited,1,2,Private
+ISE,Female,FCD,FCD,FC,FCD,FC,FCD,FC,FCD,FCD,CET,y media labs,1,1,Private 
+ISE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,COMED-K,y media labs,1,2,Private 
+ISE,Male,FCD,FCD,FCD,FC,FC,FC,FC,FC,FC,CET,y media labs,1,2,Private 
+ISE,Male,FCD,FCD,FCD,FCD,FCD,FCD,FC,FCD,FCD,CET,y media labs,1,2,Private 
+CSE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,y media labs,1,2,Private 
+CSE,Male,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,y media labs,1,2,Private 
+CSE,Male,FCD,FCD,FC,FCD,FC,FC,FC,FC,FC,CET,yahoo,1,2,MNC
+ISE,Female,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,FCD,CET,youplus,2,1,Private 
+ISE,Male,FCD,FC,FC,FC,FC,FC,FC,FC,FC,COMED-K,youplus,2,1,Private 
+ISE,Male,FCD,FC,FC,FC,SC,FC,FC,FC,FC,COMED-K,youplus,2,2,Private 
